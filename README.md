@@ -9,5 +9,5 @@ I'm a software engineer currently studying at VIT. I spend most of my time build
 ```
 
 <div align="center">
-![GitHub Stats](https://streak-stats.demolab.com?user=chinmayyy01&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayyy01&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
