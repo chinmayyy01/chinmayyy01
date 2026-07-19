@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate streak stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: assets/streak.svg
