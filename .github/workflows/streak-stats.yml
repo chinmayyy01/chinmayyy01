@@ -21,16 +21,9 @@ jobs:
       - name: Generate streak stats SVG
         uses: DenverCoder1/github-readme-streak-stats@v2
         with:
-          user: chinmayyy01
           token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: assets/streak.svg
-          theme: dark
-          hide_border: true
-          date_format: "M j[, Y]"
-          mode: weekly
-          disable_animations: false
-          locale: en
-          type: svg
+          path: assets/streak.svg
+          options: "user=chinmayyy01&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=en&type=svg"
 
       - name: Commit updated streak SVG
         run: |
