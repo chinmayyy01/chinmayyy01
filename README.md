@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/cat.jpeg" alt="cat" width="1200" height="300"/>
+<img src="./assets/cat.jpg" alt="cat" width="1200" height="300"/>
 </div>
 
 ```bash
